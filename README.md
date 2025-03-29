@@ -36,16 +36,8 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 
 ## Truth Table for 1-Bit Full Adder
-| A | B | Cin | Sum | Cout |
-|---|---|-----|-----|------|
-| 0 | 0 |  0  |  0  |  0   |
-| 0 | 0 |  1  |  1  |  0   |
-| 0 | 1 |  0  |  1  |  0   |
-| 0 | 1 |  1  |  0  |  1   |
-| 1 | 0 |  0  |  1  |  0   |
-| 1 | 0 |  1  |  0  |  1   |
-| 1 | 1 |  0  |  0  |  1   |
-| 1 | 1 |  1  |  1  |  1   |
+![image](https://github.com/user-attachments/assets/328fae3c-b83a-4cd6-b394-54323dc59673)
+
 
 ## Schematic Diagram
 ### 1. Schematic of 1-Bit Full Adder:
